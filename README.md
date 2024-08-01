@@ -51,3 +51,5 @@ Free Tailwind components that I found online
 - https://windmillui.com
 - https://wind-ui.com
 - https://windstatic.com
+- https://tailwindflex.com/search?q=hero
+- https://www.hyperui.dev/
